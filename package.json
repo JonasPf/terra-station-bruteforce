@@ -1,0 +1,22 @@
+{
+  "name": "terra-station-bruteforce",
+  "version": "1.0.0",
+  "description": "A simple (slow and dumb) bruteforce password cracker script for Terra Station",
+  "main": "decrypt.js",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Pfannschmidt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "terra-station-bruteforce"
+  }
+}
